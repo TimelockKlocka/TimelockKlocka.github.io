@@ -1,6 +1,5 @@
 ## Timelock官网
 
-***
 
 > ##### Nothing here now. Please wait for the administrator to add some new information here. New information is coming soon.  
 > * By administrator  
@@ -21,7 +20,7 @@
 ***
 
 > ##### 今ここにはまだ何もありません。サイトの管理者がここに情報を追加するのを待っていてください。新しいコンテンツが近づいています。
-> * 自己管理者の編集
+> * 管理人によって
 > * 2022/6/2
 
 ***
