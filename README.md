@@ -1,2 +1,2 @@
 # Timelock's website.
-Nothing there. Wait for admin to add some information
+Nothing there. Wait for administrator to add some information.
